@@ -1,2 +1,3 @@
-# Murder-on-Crescent-Drive
-Text based java murder mystery game. Each run selects a new killer and victim. Traverse the house collecting clues and talking to house guests to solve the murder. Be mindful of how many guesses you make on who the killer is. Make sure to only enter numbers when prompted to and only enter letters/words when prompted. enjoy!
+# About this project
+This projct was created in April of 2024 for my 12th grade Computer science final project. The project requires the use of classes and methods. I decided to creat a text-based game because I love video games.
+
