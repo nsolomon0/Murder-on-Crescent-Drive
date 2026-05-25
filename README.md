@@ -24,3 +24,8 @@ Through this project, I strengthened my understanding of:
 - and managing game state across multiple execution paths.
 
 This project also helped reinforce core software engineering concepts such as abstraction, maintainability, and scalable program structure.
+
+SCREENSHOTS:
+
+Start Screen
+<img width="3203" height="1045" alt="image" src="https://github.com/user-attachments/assets/a29ef658-6619-4409-9f34-2d91fb2dd665" />
