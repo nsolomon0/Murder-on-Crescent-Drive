@@ -235,7 +235,7 @@ public class CharactersAndClues {
                 letter="\t'Oh no, I fear my secret is out, I'm sure they know now. I can see them talking in the study now.\n\tWhat will my family say, I simply cannot let them tell anyone-'\tThe note ends suddenly there.";
             } else {
                 revealDialogue = "'Fine, I admit I killed him, but he was cheating on me! I was not going to let him leave me, I gave him everything and this is how he treated me!'";
-                letter="\t'I don't believe him, after all I've given him, he does this.\n\tI've just seen them in the study. An affair!\n\tHe will not get away with this-'\tThe not ends abruptly there.";
+                letter="\t'I don't believe him, after all I've given him, he does this.\n\tI've just seen them in the study. An affair!\n\tHe will not get away with this-'\tThe note ends abruptly there.";
             }
         } else if (cKiller == characters[2]) {
             if (cVictim == characters[0]) {
