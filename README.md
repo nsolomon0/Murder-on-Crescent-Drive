@@ -32,7 +32,6 @@ Technologies Used
 - Object-Oriented Programming (OOP)
 - State-driven logic
 - Event handling
-- What I Learned
 
 Through this project, I strengthened my understanding of:
 - designing modular software systems,
